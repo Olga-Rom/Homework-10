@@ -126,6 +126,8 @@ textarea {
 	right: -20px;
 	border-radius: 5px;
 	padding: 25px;
+	z-index: 8;
+
 }
 .header__sublist > li {
 	margin-bottom: 5px;
